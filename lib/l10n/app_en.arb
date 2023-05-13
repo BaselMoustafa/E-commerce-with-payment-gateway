@@ -1,0 +1,53 @@
+{
+    "onBoadingTitle1":"Welcome",
+    "onBoadingTitle2":"Enjoy Very Hot Offers",
+    "onBoadingTitle3":"Secure Payment",
+    "onBoadingbody1":"Our Application provides a seamless shopping experience for users",
+    "onBoadingbody2":"You can join now to get offers and dicounts for every single day with our app",
+    "onBoadingbody3":"You can use your cridet cards to pay in a secure and encrypted way ",
+    
+    
+    "register":"Register",
+    "signUpSubTittle":"Register to join our app and get all new arrivals and offers",
+    "email":"Email",
+    "name":"Name",
+    "password":"Password",
+    "signUp":"SignUp",
+    "signIn":"SignIn",
+    "alreadyHaveQues":"Already have an account? ",
+    "dontHaveQues":"Don't have an account? ",
+    "signInSubTittle":"There are too many offers since your last login",
+    
+    "home":"Home",
+    "newProducts":"New Products",
+    "egp":"EGP",
+
+    "favorite":"Favorite",
+    "thereAreNoItems":"There Are No Items",
+
+    "search":"Search",
+    "searchNow":"Search Now",
+    "searchAndExplore":"Search Now And Explore Products",
+    "notFoundForSearch":"There are no results match this search",
+
+    "cart":"Cart",
+    "completed":"completed successfully",
+    "price":"Price",
+    "checkOut":"CheckOut",
+    "addToCart":"Add To Cart",
+    "removeFromCart":"Remove From Cart",
+    "productDetails":"Product Details",
+    "details":"Details",
+    "buyNow":"Buy Now",
+    
+    "profile":"Profile",
+    "updatedSuccfully":"Updated successfully",
+    "personalInfo":"Personal Info",
+    "update":"Update",
+    "language":"Language",
+    "logout":"LogOut",
+
+    "failedToPay":"Failed to pay",
+    "timeoutBeforeCompleteProcess":"Timeout before complete process"
+    
+}

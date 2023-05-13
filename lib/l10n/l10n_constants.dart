@@ -1,0 +1,33 @@
+abstract class L10nK {
+  static const String  onBoadingTitle1="onBoadingTitle1";
+  static const String  onBoadingTitle2="onBoadingTitle2";
+  static const String  onBoadingTitle3="onBoadingTitle3";
+  static const String  onBoadingbody1="onBoadingbody1";
+  static const String  onBoadingbody2="onBoadingbody2";
+  static const String  onBoadingbody3="onBoadingbody3";
+  static const String  register="register";
+  static const String  signUpSubTittle="signUpSubTittle";
+  static const String email="email";
+  static const String name="name";
+  static const String password="password";
+  static const String signUp="signUp";
+  static const String signIn="signIn";
+  static const String alreadyHaveQues="alreadyHaveQues";
+  static const String dontHaveQues="dontHaveQues";
+  static const String signInSubTittle="signInSubTittle";
+  static const String home="home";
+  static const String newProducts="newProducts";
+  static const String egp="egp";
+  static const String favorite="favorite";
+  static const String thereAreNoItems="thereAreNoItems";
+  static const String search="search";
+  static const String searchNow="searchNow";
+  static const String searchAndExplore="searchAndExplore";
+  static const String notFoundForSearch="notFoundForSearch";
+  static const String cart="cart";
+  static const String personalInfo="personalInfo";
+  static const String update="update";
+  static const String language="language";
+  static const String logout="logout";
+  static const String completed="Completed Successfully";
+}

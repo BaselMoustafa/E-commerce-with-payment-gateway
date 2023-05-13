@@ -1,0 +1,52 @@
+{
+    "onBoadingTitle1":"مرحبا",
+    "onBoadingTitle2":"استمتع بالعروض الحصرية",
+    "onBoadingTitle3":"دفع امن",
+    "onBoadingbody1":"تطبيقنا يقدم تجربة تسوق سلسة للمستخدمين",
+    "onBoadingbody2":"يمكنك التسجيل الان للحصول علي العروض و الخصومات الجديدة من خلال تطبيقنا",
+    "onBoadingbody3":"يمكنك استخدام بطافات الدفع بشكل امن و سري",
+    
+    
+    "register":"انشاء حساب",
+    "signUpSubTittle":"انشئ حساب لتلتحق بتطبيقنا و تتمتع بالتسوق",
+    "email":"البريد الالكتروني",
+    "name":"اسم المتخدم",
+    "password":"كلمة السر",
+    "signUp":"اشترك",
+    "signIn":"تسجيل الدخول",
+    "alreadyHaveQues":"بالفعل تملك بريد الكتروني؟ ",
+    "dontHaveQues":"لا تمتلك بريد الكتروني؟ ",
+    "signInSubTittle":"يوجد العديد من المنتجات و العروض في انتظارك",
+    
+    "home":"الرئيسية",
+    "newProducts":"المنتجات الجديدة",
+    "egp":"ج.م",
+
+    "favorite":"المفضلة",
+    "thereAreNoItems":"لا يوجد منتجات",
+
+    "search":"البحث",
+    "searchNow":"ابحث الان",
+    "searchAndExplore":"ابحث الان و اكتشف المنجات الجديدة",
+    "notFoundForSearch":"لا يوجد نتائج متوفرة لهذا البحث",
+
+    "cart":"عربة التسوق",
+    "completed":"تمت بنجاح",
+    "price":"السعر",
+    "checkOut":"ادفع",
+    "addToCart":"اضف الي العربة",
+    "removeFromCart":"ازالة من العربة",
+    "productDetails":"تفاصيل المنتج",
+    "details":"التفاصيل",
+    "buyNow":"ادفع الان",
+
+    "profile":"الحساب",
+    "updatedSuccfully":"تم التعديل بنجاح",
+    "personalInfo":"المعلومات الشخصية",
+    "update":"تعديل",
+    "language":"اللغة",
+    "logout":"تسجيل الخروج",
+
+    "failedToPay":"فشل في عملية الدفع",
+    "timeoutBeforeCompleteProcess":"لم يتم اكتمال العملية"
+}
